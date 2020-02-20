@@ -4,6 +4,8 @@ def my_square(x):
 	return (x ** 2)
 
 def my_squar2e(x):
+	""" calculates the square of a number trough x * x
+	"""
 	return (x * x)
 	
 
